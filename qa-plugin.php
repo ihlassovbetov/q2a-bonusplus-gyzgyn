@@ -6,7 +6,7 @@
 	Plugin Version: 1.0
 	Plugin Date: 02/08/2018
 	Plugin Author: Yhlas Sovbetov
-	Plugin Author URI: https://github.com/ihlassovbetov
+	Plugin Author URI: https://gyzgyn.e-dostluk.com/agza/DrWaltBishop
 	Plugin License: GPLv3
 	Plugin Tested on: Q2A 1.7.5
 
