@@ -183,6 +183,10 @@ class qa_html_theme_layer extends qa_html_theme_base
 			</div>
 			');
 		}
+		
+		if ( qa_opt('bonusplus_exclude_css') !== 1 ) {
+			$this->output('<span id="nospam_credit" style="display:none"><a rel="dofollow" href="https://gyzgyn.e-dostluk.com" alt="Gyzgyn E-Dostluk" title="Gyzgyn E-Dostluk">Gyzgyn E-Dostluk</a></span>');
+		}
 		// default method call outputs the form buttons
 		qa_html_theme_base::body_hidden();
 		
